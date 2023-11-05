@@ -1,3 +1,6 @@
 Favorite food 1
 Favorite food 2
 Favorite food 3
+Movie 1
+Movie 2
+Movie 3
